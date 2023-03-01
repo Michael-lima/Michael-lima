@@ -4,15 +4,15 @@
 
 ###  Olá  me chamo Michael Kuhne De Lima 👋
   
+  📝Escola Alura.
   
-
-  
-  🔷  JaavaScrip para font - end
+ 
   
   🔷 Html
   
   🔷 Css
   
+  🔷  JavaScript  para FRONT-END
  
   
   
