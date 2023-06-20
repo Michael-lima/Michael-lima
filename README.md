@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Michael Lima 👋</h1>
 
-👨‍🎓- Sou estudante de Desenvolvimento FRONT-END e Análise Desenvolvimento de Sistemas.
+👨‍🎓- Sou estudante de Desenvolvimento FRONT-END e ANÁLISE DESENVOLVIMENTO DE SISTEMAS.
 
 ❤️- Apaixonado por tecnologia.
 
