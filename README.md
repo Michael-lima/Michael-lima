@@ -1,8 +1,11 @@
 ##Olá! Eu sou o Michael Lima 👋
 
 👨‍🎓- Sou estudante de Desenvolvimento FRONT-END e Análise Desenvolvimento de Sistemas.
+
 ❤️- Apaixonado por tecnologia.
+
 🎮- Gosto de jogar games.
+
 ⚽- Gosto de futebol.
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kuhne-de-lima/)
